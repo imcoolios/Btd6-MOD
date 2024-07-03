@@ -1,0 +1,42 @@
+{
+  "ModVersion": "1.1.0",
+  "Name": "Mini Money",
+  "Speed": 45.0,
+  "Health": 2,
+  "Damage": 15,
+  "R": 0,
+  "G": 255,
+  "B": 0,
+  "CashDropped": 500,
+  "GUID": "90cffa35-7d64-4047-b536-afddcdd4aa70",
+  "IsCamo": false,
+  "IsLead": false,
+  "IsPurple": false,
+  "IsBlack": false,
+  "IsWhite": false,
+  "IsFrozen": false,
+  "IsRegrow": false,
+  "RegrowRate": 3.0,
+  "BloonChildren": [],
+  "BloonRounds": [],
+  "BloonBehaviors": [],
+  "Decal1": {
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Type": 2,
+    "OffsetX": 0,
+    "OffsetY": 0
+  },
+  "Decal2": {
+    "R": 0,
+    "G": 255,
+    "B": 0,
+    "Type": 3,
+    "OffsetX": 0,
+    "OffsetY": 0
+  },
+  "Size": 0.5,
+  "IsCustomDisplay": false,
+  "CustomDisplay": null
+}
